@@ -1,7 +1,7 @@
 <h1 align="center">Olá, sou o Pedro 👋</h1>
 
 <p align="center">
-  Técnico de telecomunicações a transitar para <b>Engenharia Informática</b> 🚀
+  Estudante de <b>Engenharia Informática</b> apaixonado por desenvolvimento de software 🚀
 </p>
 
 ---
@@ -9,8 +9,7 @@
 ### 🎯 Sobre mim
 
 - 🎓 A tirar **Engenharia Informática** na ESTG – Politécnico do Porto
-- 🔧 Mais de 10 anos de experiência em redes de fibra ótica (FTTH, testes OTDR) — trago comigo uma bagagem prática de resolução de problemas em ambiente real
-- 💻 Atualmente a aprofundar bases de dados, desenvolvimento de software e boas práticas de engenharia
+- 💻 A aprofundar bases de dados, desenvolvimento de software e boas práticas de engenharia
 - 📍 Baseado na zona do Porto, Portugal
 - 🌱 Sempre a aprender — o próximo objetivo é conseguir uma primeira oportunidade em desenvolvimento de software
 
@@ -56,4 +55,4 @@
 
 ---
 
-<p align="center"><i>De técnico de campo a programador — a construir a próxima fase da minha carreira, um commit de cada vez.</i></p>
+<p align="center"><i>A construir a minha carreira em software, um commit de cada vez.</i></p>
