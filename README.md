@@ -8,7 +8,7 @@
 ### 🎯 About me
 - 🎓 Studying **Computer Engineering** at ESTG – Politécnico do Porto
 - 💻 Deepening my knowledge of databases, software development, and engineering best practices
-- 📍 Based in the Porto area, Portugal
+- 📍 Based in the Porto, Portugal
 - 🌱 Always learning — next goal is landing my first opportunity in software development
 
 ---
