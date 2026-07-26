@@ -42,7 +42,8 @@
 ---
 
 ### 📌 Featured projects
-- 🎧 **[Artichvr](https://pedrocunha710.github.io/Artichvr/)** — album explorer built on the Spotify Web API, with real-time search; vanilla HTML, CSS, and JavaScript
+- 🎧 **Artichvr** — album explorer built on the Spotify Web API, with real-time search; vanilla HTML, CSS, and JavaScript
+  - 🔗 [Live demo](https://pedrocunha710.github.io/Artichvr/) · [Source code](https://github.com/pedrocunha710/Artichvr)
   - 🎉 first project publicly launched
 
 ---
