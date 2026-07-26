@@ -9,7 +9,7 @@
 - 🎓 Studying **Computer Engineering** at ESTG – Politécnico do Porto
 - 💻 Deepening my knowledge of databases, software development, and engineering best practices
 - 📍 Based in the Porto, Portugal
-- 🌱 Always learning — next goal is landing my first opportunity in software development
+- 🌱 Still learning, aiming to land my first opportunity in software development
 
 ---
 
@@ -42,7 +42,7 @@
 ---
 
 ### 📌 Featured projects
-- 🎧 **Artichvr** — album explorer built on the Spotify Web API, with real-time search; vanilla HTML, CSS, and JavaScript
+- 🎧 **Artichvr**: album explorer built on the Spotify Web API, with real-time search; vanilla HTML, CSS, and JavaScript
   - 🔗 [Live demo](https://pedrocunha710.github.io/Artichvr/) · [Source code](https://github.com/pedrocunha710/Artichvr)
   - 🎉 first project publicly launched
 
